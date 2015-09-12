@@ -77,7 +77,7 @@ The current solutions for BTEX and PAH contamination includes:
 Our project therefore aims to maximize the efficiency of the bioremediation
 process by creating a synthetically engineered microorganism that can degrade
 these toxic compounds. Our team focused specifically on toluene since it is one
-of the major PAHs present in these oil sand tailings and is one of the most
+of the major BTEXs present in these oil sand tailings and is one of the most
 studied one’s.
 
 ### Toluene degradation in microbial communities
